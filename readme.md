@@ -12,6 +12,8 @@ It queries each remote using `rclone about --json`, extracts usage information, 
 
 > ℹ️ The script calculates `Bytes / 1024³` and labels the result as "GB" to match typical web UI displays (many providers display GiB but label them GB).
 
+<img width="1176" height="250" alt="image" src="https://github.com/user-attachments/assets/a91247f9-b0ca-4754-beb4-3ab18cc69f83" />
+
 ---
 
 ## Features
